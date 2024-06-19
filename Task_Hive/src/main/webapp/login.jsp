@@ -49,7 +49,7 @@ function handleClick(){
 			response.sendRedirect("user.jsp");
 		}
 		else{%>
-		
+				
 			alert("Invalid credentials");
 			<% 
 			}
